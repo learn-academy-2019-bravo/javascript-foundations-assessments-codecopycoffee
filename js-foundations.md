@@ -1,6 +1,7 @@
 # Javascript Foundations Assessments
 
 ### Without using Google answer the following:
+TEST
 
 1. List the data types in Javascript. Indicate which are primitives.
 
